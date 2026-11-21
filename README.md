@@ -1,4 +1,4 @@
-﻿# Coffee Barista Agent
+# Coffee Barista Agent
 
 **Help every guest find their next favorite drink.**
 
@@ -10,7 +10,7 @@ A guest knows they want something refreshing under 55,000 VND. Coffee Barista tu
 
 The demo ships with a sample café menu. Swap in your café’s drinks, prices, tasting notes, and ingredient details in [`menu.json`](menu.json).
 
-![https://drive.google.com/file/d/1DESdvIRirz4gBMbx1CPU7UmKRTHriD6g/view?usp=sharing](test.png)
+![Coffee Barista Agent demo](demo-preview.png)
 
 ## Tech stack
 
