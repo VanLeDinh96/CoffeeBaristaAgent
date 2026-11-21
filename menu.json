@@ -1,0 +1,86 @@
+[
+  {
+    "id": "black-coffee",
+    "name": "Cà phê đen",
+    "aliases": ["black coffee", "cà phê phin"],
+    "category_id": "coffee",
+    "price_vnd": 35000,
+    "ingredients": ["cà phê"],
+    "description": "Cà phê pha phin, vị đậm và hơi đắng."
+  },
+  {
+    "id": "latte",
+    "name": "Latte",
+    "aliases": ["cà phê latte"],
+    "category_id": "coffee",
+    "price_vnd": 45000,
+    "ingredients": ["espresso", "sữa bò"],
+    "description": "Espresso pha với sữa nóng, vị nhẹ."
+  },
+  {
+    "id": "cappuccino",
+    "name": "Cappuccino",
+    "aliases": [],
+    "category_id": "coffee",
+    "price_vnd": 50000,
+    "ingredients": ["espresso", "sữa bò"],
+    "description": "Espresso với sữa nóng và lớp bọt sữa."
+  },
+  {
+    "id": "mocha",
+    "name": "Mocha",
+    "aliases": ["cà phê mocha"],
+    "category_id": "coffee",
+    "price_vnd": 55000,
+    "ingredients": ["espresso", "sữa bò", "sô-cô-la"],
+    "description": "Espresso với sữa nóng và sô-cô-la."
+  },
+  {
+    "id": "jasmine-tea",
+    "name": "Trà nhài",
+    "aliases": ["jasmine tea", "trà lài"],
+    "category_id": "tea",
+    "price_vnd": 40000,
+    "ingredients": ["trà nhài"],
+    "description": "Trà thơm nhẹ hương hoa nhài."
+  },
+  {
+    "id": "coconut-coffee",
+    "name": "Cà phê cốt dừa",
+    "aliases": ["cà phê dừa", "coconut coffee"],
+    "category_id": "coffee",
+    "price_vnd": 55000,
+    "tags": ["cold"],
+    "ingredients": ["cà phê", "nước cốt dừa"],
+    "description": "Cà phê đậm kết hợp với nước cốt dừa, vị béo nhẹ, phục vụ với đá."
+  },
+  {
+    "id": "salt-coffee",
+    "name": "Cà phê muối",
+    "aliases": ["cafe muối", "salt coffee"],
+    "category_id": "coffee",
+    "price_vnd": 59000,
+    "ingredients": ["cà phê", "kem sữa", "muối"],
+    "description": "Cà phê pha phin phủ kem muối, có vị mặn nhẹ."
+  },
+  {
+    "id": "lychee-tea",
+    "name": "Trà vải",
+    "aliases": ["lychee tea"],
+    "category_id": "tea",
+    "price_vnd": 55000,
+    "tags": ["cold", "refreshing"],
+    "ingredients": ["trà nhài", "vải"],
+    "description": "Trà nhài pha cùng vải, phục vụ với đá, vị ngọt thanh."
+  },
+  {
+    "id": "lotus-oolong-tea",
+    "name": "Trà ô long sen",
+    "aliases": ["trà sen", "lotus oolong tea"],
+    "category_id": "tea",
+    "price_vnd": 59000,
+    "tags": ["cold", "refreshing"],
+    "ingredients": ["trà ô long", "hương sen"],
+    "description": "Trà ô long hương sen, phục vụ lạnh, chát nhẹ và có hậu ngọt."
+  }
+]

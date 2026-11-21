@@ -1,0 +1,4 @@
+# ADK 2.14 and Streamlit 1.59 both support watchdog 6.
+google-adk==2.14.0
+python-dotenv>=1,<2
+streamlit==1.59.2

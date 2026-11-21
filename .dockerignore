@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!app.py
+!requirements.txt
+!menu.json
+!barista/
+!barista/*.py
